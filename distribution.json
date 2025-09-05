@@ -120,9 +120,9 @@
           "name": "Mcrider_bug_fix",
           "type": "FabricMod",
           "artifact": {
-            "size": 8214,
+            "size": 7940,
             "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/required/mcrider_bug_fix-1.0-1.21.5.jar",
-            "MD5": "333df4e018b8246f1ffd6973aa280f8e"
+            "MD5": "5fdb7065d7ca57e877819634b73bab4f"
           }
         }
       ]
