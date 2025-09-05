@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1915305,
             "MD5": "72dd698d701202d46303fc913cfcbf23",
-            "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/refs/heads/main/repo/lib/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
+            "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/main/repo/lib/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
           },
           "subModules": [
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126113,
                 "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
-                "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/refs/heads/main/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+                "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/main/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35151,
                 "MD5": "3d63508405f5610fc2ea673ff5471553",
-                "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/refs/heads/main/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+                "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/main/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 73498,
                 "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
-                "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/refs/heads/main/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+                "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/main/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51934,
                 "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
-                "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/refs/heads/main/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+                "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/main/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94559,
                 "MD5": "62498ef324bdab15f407d703f7d78d19",
-                "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/refs/heads/main/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+                "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/main/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1504156,
                 "MD5": "aa4a43d5b0e9abf4fcb57520ffeb0019",
-                "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/refs/heads/main/repo/lib/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/main/repo/lib/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 724686,
                 "MD5": "115c92c48d79d3996f7b3faab1c6aeb1",
-                "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/refs/heads/main/repo/lib/net/fabricmc/intermediary/1.21.5/intermediary-1.21.5.jar"
+                "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/main/repo/lib/net/fabricmc/intermediary/1.21.5/intermediary-1.21.5.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8214,
-            "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/required/mcrider_bug_fix-1.0-1.21.5.jar",
+            "url": "https://raw.githubusercontent.com/HeliosLauncher-IPECTER/Lark-Files/main/servers/LarkServer-1.21.5/fabricmods/required/mcrider_bug_fix-1.0-1.21.5.jar",
             "MD5": "333df4e018b8246f1ffd6973aa280f8e"
           }
         }
