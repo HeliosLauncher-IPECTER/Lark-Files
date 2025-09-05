@@ -9,19 +9,19 @@
   "servers": [
     {
       "id": "LarkServer-1.21.5",
-      "name": "LarkServer (Minecraft 1.21.5)",
-      "description": "LarkServer Running Minecraft 1.21.5 (Fabric v0.17.2)",
-      "icon": null,
+      "name": "종달새 서버",
+      "description": "종달새 서버 프로필입니다",
+      "icon": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "jnh0p0nzl01nzxm.kro.kr",
       "minecraftVersion": "1.21.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.17.2",
@@ -114,6 +114,16 @@
               }
             }
           ]
+        },
+        {
+          "id": "com.gihub.cidite.test:mcrider_bug_fix:1.0@jar",
+          "name": "Mcrider_bug_fix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8214,
+            "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/required/mcrider_bug_fix-1.0-1.21.5.jar",
+            "MD5": "333df4e018b8246f1ffd6973aa280f8e"
+          }
         }
       ]
     }
