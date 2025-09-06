@@ -196,13 +196,29 @@
           }
         },
         {
+          "id": "de.maxhenkel:voicechat:1.21.5-2.5.35@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7395786,
+            "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/optionalon/voicechat-fabric-1.21.5-2.5.35.jar",
+            "MD5": "514641152755dc4e94d26b8ccbbbfb68"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.wurstclient.zoom:wi_zoom:1.6-MC1.21.5@jar",
           "name": "WI Zoom",
           "type": "FabricMod",
           "artifact": {
             "size": 154626,
-            "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/required/WI-Zoom-1.6-MC1.21.5.jar",
+            "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/optionalon/WI-Zoom-1.6-MC1.21.5.jar",
             "MD5": "6fe60b8fd6aa306581927912ce747bf2"
+          },
+          "required": {
+            "value": false
           }
         },
         {
