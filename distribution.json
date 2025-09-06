@@ -116,6 +116,56 @@
           ]
         },
         {
+          "id": "kr.shihyeon:blurserveraddress:1.2.0+mc1.21.5@jar",
+          "name": "BlurServerAddress",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11340,
+            "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.5.jar",
+            "MD5": "1033b8f26d7b8ddf3abd4d556b0c8f9b"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cubes-without-borders:3.0.0+mc1.21.5@jar",
+          "name": "Cubes Without Borders",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 81623,
+            "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/required/cwb-fabric-3.0.0+mc1.21.5.jar",
+            "MD5": "d29e2d0d27179c62638f2b79e857ba14"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.128.2+1.21.5@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2248994,
+            "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/required/fabric-api-0.128.2+1.21.5.jar",
+            "MD5": "efcbc632e8c42c754f465472942896b8"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.8.11+mc1.21.5@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2714605,
+            "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/required/iris-fabric-1.8.11+mc1.21.5.jar",
+            "MD5": "c08a1725cf3ae49482431e9f67054769"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.9.0+mc1.21.5@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 597805,
+            "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/required/koreanpatch-fabric-1.9.0+mc1.21.5.jar",
+            "MD5": "25e8ed9c0ed1c49eb702244964c1710b"
+          }
+        },
+        {
           "id": "com.gihub.cidite.test:mcrider_bug_fix:1.0@jar",
           "name": "Mcrider_bug_fix",
           "type": "FabricMod",
@@ -123,6 +173,47 @@
             "size": 7940,
             "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/required/mcrider_bug_fix-1.0-1.21.5.jar",
             "MD5": "5fdb7065d7ca57e877819634b73bab4f"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:14.0.0-rc.2@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1069680,
+            "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/required/modmenu-14.0.0-rc.2.jar",
+            "MD5": "5a262391236708f6bf39dc8df44e8945"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.5@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1336477,
+            "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/required/sodium-fabric-0.6.13+mc1.21.5.jar",
+            "MD5": "d36008a72882b8ccef234e715cf1e785"
+          }
+        },
+        {
+          "id": "net.wurstclient.zoom:wi_zoom:1.6-MC1.21.5@jar",
+          "name": "WI Zoom",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 154626,
+            "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/fabricmods/required/WI-Zoom-1.6-MC1.21.5.jar",
+            "MD5": "6fe60b8fd6aa306581927912ce747bf2"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 155,
+            "url": "https://github.com/HeliosLauncher-IPECTER/Lark-Files/raw/refs/heads/main/servers/LarkServer-1.21.5/files/servers.dat",
+            "MD5": "ccc987fd7dede66481258a17e345d5d3",
+            "path": "servers.dat"
           }
         }
       ]
